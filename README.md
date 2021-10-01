@@ -4,7 +4,7 @@
 
 <h1 align="center">Grand Recipe</h1>
 
-Application that gathers world food and drink recipes. Designed for mobile.
+Application that gathers world food and drink recipes. Designed in web mode but just for mobile layout.
 
 ## Demo
 
