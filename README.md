@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/images/grandRecipeReadme.jpg" width="400px">
+  <img src="./src/images/grand.jpg" width="400px">
 </p>
 
 <h1 align="center">Grand Recipe</h1>
